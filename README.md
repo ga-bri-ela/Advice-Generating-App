@@ -1,6 +1,5 @@
 # Advice Generating App
 
-![Design preview for the Job Listings coding challenge](./design/desktop-preview.jpg)
 
 ## Well, hello there! 👋
 
@@ -11,8 +10,10 @@ I particularly enjoy completing these type of challenges as they are a great opp
 ## The Challenge 
 
 The [Advice Generating App Challenge](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db) consists in using the [Advice Slip API](https://api.adviceslip.com/) to generate a new advice as the user clicks on the button. The number above the advice should also update to match the id number information we receive through the API. 
-Another key point from the challenge is creating a responsive application, with compatibility for both desktop and mobile. 
-[screeshot](https://github.com/ga-bri-ela/Advice-Generating-App/blob/main/advice-screenshot.png?raw=true)
+Another key point from the challenge is creating a responsive application, with compatibility for both desktop and mobile. \
+
+
+![screenshot of the application ](https://github.com/ga-bri-ela/Advice-Generating-App/blob/main/advice-screenshot.png?raw=true)
 
 ## Technologies 💻
 
